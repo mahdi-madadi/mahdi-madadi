@@ -33,7 +33,7 @@ Data Analyst | Reporting Analyst | Business Analyst | MIS Assistant | Monitoring
 
 ## 📫 Connect With Me
 
-- LinkedIn: [www.linkedin.com/in/mahdi-madadi-582399306]
-- Email: [madadi.m1999@gmail.com]
+- LinkedIn: www.linkedin.com/in/mahdi-madadi-582399306
+- Email: madadi.m1999@gmail.com
 
 *I aim to build practical, well-documented projects that demonstrate analytical thinking, technical skills, and clear business communication.*
